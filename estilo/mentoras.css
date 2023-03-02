@@ -1,68 +1,33 @@
-
-#cabeca{
-    
-}
 body{
     background-color: rgba(27, 25, 25, 0.925);
 }
-#Elogo{
-    
-    margin: 10px 35%;
-    padding: 50px 15px;
-    display: flex;
-    
-     
-}
-
 #estrutura{
-    
+    margin: 0 15%;
 }
-
-#corpo{
-    
-    
-    margin: 5px 20%;
+#Elogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #corpo2pg{
-    margin: 5px 19%;
     display: flex;
-    
+    justify-content: space-between;
 }
-#cabeçario{
-    
-    margin: 0px 19.2%;
+#minicorpo2 img{
+    width: 25vw;
+    height: auto;
 }
-#cabeçario h2{
-    text-transform: none;
-
-}
-.minicorpo{
-    margin: 5px 18%;
-    padding: 25px 10px;
-}
-.minicorpo h1{
-
-}
-#minicorpo2{
-    margin: 20px 4%;
-    padding: 0% 13% 0% 0%;
-    
+#text{
+    width:55%;
 }
 h1{
     text-transform: uppercase;
-}
-#text{
-    margin: 10% 2%;
-}
-img{
-    
 }
 footer{
     background-color: rgb(51, 51, 51);
     display: flex;
     justify-content: space-between;
     padding: 2% 10% 5% 10%;
-    margin: 0% 10%;
     border: rgb(73, 72, 72);
     border-style: outset;
     
