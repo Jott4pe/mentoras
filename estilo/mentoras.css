@@ -4,6 +4,9 @@
 body{
     background-color: rgba(27, 25, 25, 0.925);
 }
+section{
+    margin: 10% 0;
+}
 #cabeca{
     background-color: rgb(26, 24, 24);
 }
@@ -40,16 +43,19 @@ h1{
     text-transform: uppercase;
 }
 footer{
-    background-color: rgb(90, 87, 87);
+    background-color: rgba(27, 25, 25, 0.925);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 .contato{
-    width: 20%;
-    margin: 2% 0;
+    width: 16%;
+    margin: 2% 3%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(44 44 44);
+    padding: 3% 6%;
+    border-radius: 10%;
 }
 .contato img{
     width: 100%;
