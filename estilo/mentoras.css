@@ -9,6 +9,10 @@ section{
 }
 #cabeca{
     background-color: rgb(26, 24, 24);
+    height: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #estrutura{
     margin: 0 15%;
