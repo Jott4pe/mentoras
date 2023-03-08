@@ -2,6 +2,10 @@
     #cabeca{
         height: 25vw;
     }
+    #Elogo img{
+        width: 100%;
+        height: auto;
+    }
 }
 @media only screen and (max-width:600px){
     #cabeca{
