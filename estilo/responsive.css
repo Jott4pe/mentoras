@@ -1,3 +1,8 @@
+@media only screen and (max-width:950px){
+    #cabeca{
+        height: 25vw;
+    }
+}
 @media only screen and (max-width:600px){
     #cabeca{
         height: 80vw;
