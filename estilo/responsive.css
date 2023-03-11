@@ -1,0 +1,32 @@
+@media only screen and (max-width:950px){
+    #cabeca{
+        height: 25vw;
+    }
+    #Elogo img{
+        width: 100%;
+        height: auto;
+    }
+}
+@media only screen and (max-width:600px){
+    #cabeca{
+        height: 80vw;
+    }
+    section{
+        margin: 20% 0;
+    }
+    #corpo2pg,footer{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #minicorpo2 img{
+        width: 70vw;
+    }
+    #text{
+        width: 100%;
+    }
+    .contato{
+        width: 50%;
+        margin: 5% 0;
+    }
+}
