@@ -4,6 +4,7 @@
 body{
     background-color: rgba(27, 25, 25, 0.925);
     margin: 0;
+    background-image: linear-gradient(135deg, #000297, black, #000297);
 }
 section{
     margin: 10% 0;
