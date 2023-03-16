@@ -80,7 +80,7 @@ button:after {
     transition-property: width, left;
   }
 #minicorpo2 img{
-    width: 25vw;
+    width: 21vw;
     height: auto;
 }
 #text{
@@ -89,7 +89,8 @@ button:after {
     margin-top: 7%;
 }
 h1{
-    text-transform: uppercase;
+    text-transform: capitalize;
+    font-size: xx-large;
 }
 footer{
     background-color: rgba(0, 0, 0, 0.925);
@@ -138,7 +139,7 @@ footer{
     border-radius: 15px;
   }  
 .contato img{
-    width: 75%;
+    width: 60%;
     height: auto;
     z-index: 1;
 }
